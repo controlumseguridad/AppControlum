@@ -16,3 +16,4 @@ export default function App() {
     </div>
   );
 }
+import Clients from "./pages/Clients"; // ⬅️ Import nuevo
